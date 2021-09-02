@@ -1,0 +1,16 @@
+ <resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="tv_num2">Number 2</string>
+    <string name="text_1" />
+    <string name="text_2" />
+    <string name="buttn_1">OK</string>
+    <string name="text_3" />
+    <string name="buttn_2">+</string>
+    <string name="buttn_5">/</string>
+    <string name="buttn_3">-</string>
+    <string name="buttn_4">*</string>
+     <string name="num_2">Number 2</string>
+     <string name="num_1">Number 1</string>
+     <string name="toast">Opening Calculator !!!</string>
+
+ </resources>
